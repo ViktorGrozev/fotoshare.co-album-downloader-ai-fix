@@ -123,4 +123,4 @@ Example row:
 
 ## Credits
 
-Original project by [CodeBrauer](https://github.com/CodeBrauer/fotoshare.co-album-downloader). Fix for the current fotoshare.co site by [ViktorGrozev](https://github.com/ViktorGrozev), written with AI assistance.
+Original project by [CodeBrauer](https://github.com/CodeBrauer/fotoshare.co-album-downloader). Fix for the current fotoshare.co site by Claude, written with assistance by [ViktorGrozev](https://github.com/ViktorGrozev).
