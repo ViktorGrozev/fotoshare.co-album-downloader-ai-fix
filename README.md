@@ -1,3 +1,5 @@
+##FORKED REPO WITH VIBECODED FIX TO MAKE IT WORK
+
 # ARCHIVED
 
 This repository is no longer maintained and updated, as fotoshare.co now offers a download for all images.
